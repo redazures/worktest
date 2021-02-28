@@ -2,5 +2,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
     console.log('works for me')
 })
 
+const a = "foobar"
 
-//for the git // remix part 3
+function cant(){
+    return a
+}
+
+console.log(cant())
+//for the git // remix part 3// 1 more git

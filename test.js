@@ -9,4 +9,4 @@ function cant(){
 }
 
 console.log(cant())
-//for the git // remix part 3 // okay
+//for the git // remix part 3 // 

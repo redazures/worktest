@@ -9,4 +9,4 @@ function cant(){
 }
 
 console.log(cant())
-//for the git // 
+//for the git // nothing new // is theres omething
